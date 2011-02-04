@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest version="1.8">
+	<name>PubSubHubbub</name>
+	<author>Evan Winslow</author>
+	<version>0.1</version>
+	<blurb>PuSH</blurb>
+	<description>Adds PubSubHubbub support to your Elgg installation.</description>
+	<website>http://evanwinslow.com</website>
+	<copyright>(C) Evan Winslow 2011</copyright>
+	<license>GPL v3</license>
+
+	<requires>
+		<type>elgg_version</type>
+		<version>2011010401</version>
+	</requires>
+
+	<admin_interface>advanced</admin_interface>
+
+</plugin_manifest>
