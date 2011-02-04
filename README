@@ -1,0 +1,7 @@
+PubSubHubbub support for Elgg 1.8
+
+See: http://code.google.com/p/pubsubhubbub/
+
+TODO:
+Receive PuSHed notifications
+Add RSS support
